@@ -3,7 +3,8 @@
 Дані для аналізу взяті з файлу sample_superstore.xsl.
 # Інструменти:
 - Exsel
-- Tableau
+- Tableau.
+  
 Побудований дашборд має фільтри, що дозволяють фільтувати дані за певними критеріями (регіон, штат, рік, категорія товару)
 Посилання на опублікованиій дашборд в Tableau:
 https://public.tableau.com/app/profile/olga.a4903/viz/Project_Tableau_17446534460590/SalesDashboard
