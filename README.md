@@ -9,3 +9,4 @@
 
 Посилання на опублікованиій дашборд в Tableau:
 https://public.tableau.com/app/profile/olga.a4903/viz/Project_Tableau_17446534460590/SalesDashboard
+![{3821D4EC-6B06-4FA0-9414-10FB2928FD1A}](https://github.com/user-attachments/assets/d4279bd2-13f1-40f3-9df4-e5de5fc4e53c)
